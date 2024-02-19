@@ -9,7 +9,7 @@ def lasit_un_drukat(file_path):
     except Exception as e:
         print(f"Kļūda: {e}")
         
-(Aizvietojiet 'lietotajs.txt' ar pareizo faila ceļu),
+(Aizvietojiet 'lietotajs.txt' ar pareizo faila ceļu,
 faila_ceels = 'lietotajs.txt'
 lasit_un_drukat(faila_ceels)
 
